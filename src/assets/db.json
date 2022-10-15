@@ -1,0 +1,45 @@
+{
+  "employee": [
+    {
+      "id": 100,
+      "name": "Steve",
+      "DOJ": "13-10-22",
+      "Salary": 30000,
+      "Email": "steve@gamil.com"
+    }
+  ],
+  "users": [
+    {
+      "id": 100,
+      "name": "Steve"
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "confirmpass": "",
+      "id": 101
+    },
+    {
+      "name": "",
+      "email": "jioi7@h",
+      "password": "a123",
+      "confirmpass": "a123",
+      "id": 102
+    },
+    {
+      "name": "",
+      "email": "jioi7@h",
+      "password": "a123",
+      "confirmpass": "a123",
+      "id": 103
+    },
+    {
+      "name": "Aiswarya",
+      "email": "jioi7@h",
+      "password": "a456767th",
+      "confirmpass": "jhgyt67",
+      "id": 104
+    }
+  ]
+}
