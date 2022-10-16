@@ -1,5 +1,9 @@
 # Spaauth
 
+An SPA (Single-page application) is a web app implementation that loads only a single web document, and then updates the body content of that single document via JavaScript APIs such as XMLHttpRequest and Fetch when different content is to be shown.
+
+This project as a login and register page in which a user can register and can login with the user credentials. When the user get registered, the data will pass to the JSON server(live server) through post method. In login page we fetch the data from server through get method and check the credentials and get the alert message. Also we use the app-router.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
 
 ## Development server
